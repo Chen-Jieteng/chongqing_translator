@@ -10,5 +10,4 @@
 
 # 项目目前进度
 如图所示，正在做数据预处理。
-![截屏2025-08-09 23.14.36.png]()
-
+![Image text]([https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg](https://github.com/Chen-Jieteng/chongqing_translator/blob/main/%E6%88%AA%E5%B1%8F2025-08-09%2023.14.36.png))
