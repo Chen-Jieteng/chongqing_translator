@@ -9,5 +9,5 @@
 本人是土生土长广东人，精通粤语及四种五邑片区方言，曾在重庆居住，顺便考察重庆话，学习历程达5个月，是本人学习的第6个方言。
 
 # 项目目前进度
-![Uploading image.png…]()
+![https://github.com/Chen-Jieteng/chongqing_translator/blob/main/%E6%88%AA%E5%B1%8F2025-08-09%2023.14.36.png]()
 
